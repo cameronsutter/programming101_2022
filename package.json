@@ -1,0 +1,13 @@
+{
+  "name": "programmingclass101",
+  "version": "0.0.1",
+  "description": "A visual story-planning tool",
+  "private": true,
+  "main": "bin/electron_main.js",
+  "scripts": {
+    "start": "node",
+    "alexis": "node src/alexis/index.js",
+    "jd": "node src/jd/index.js",
+    "sam": "node src/sam/index.js"
+  }
+}
