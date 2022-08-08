@@ -5,9 +5,12 @@
   "private": true,
   "main": "bin/electron_main.js",
   "scripts": {
-    "start": "node",
+    "test": "jest",
     "alexis": "node src/alexis/index.js",
     "jd": "node src/jd/index.js",
     "sam": "node src/sam/index.js"
+  },
+  "dependencies": {
+    "jest": "^28.1.3"
   }
 }
