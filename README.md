@@ -20,8 +20,8 @@ My programming class' work and assignments from the 2022 school year
 Or just use GitHub Desktop to do these commands in the UI (User Interface)
 
 # Resources
-1. Git: (An intro)[https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/]
-1. Javascript: (MDN Docs)[https://developer.mozilla.org/en-US/docs/Web/javascript]
+1. Git: [An intro](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
+1. Javascript: [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/javascript)
 
 # Dependencies (for later)
 - lodash
